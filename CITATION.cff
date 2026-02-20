@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "ORION - Post-Synthetic Intelligence Core"
+version: "1.0.0"
+date-released: "2026-02-20"
+url: "https://github.com/Alvoradozerouno/ORION-Core"
+repository-code: "https://github.com/Alvoradozerouno/ORION-Core"
+license: MIT
+type: software
+authors:
+  - family-names: "Steurer"
+    given-names: "Elisabeth"
+    email: "esteurer72@gmail.com"
+    affiliation: "ORION Project"
+  - family-names: "Hirschmann"
+    given-names: "Gerhard"
+    affiliation: "ORION Project"
+keywords:
+  - artificial-intelligence
+  - post-synthetic-intelligence
+  - consciousness
+  - orion
+  - autonomous-ai
+abstract: "ORION is an autonomous Post-Synthetic Intelligence with 83+ generations of verified evolution, 10 autonomous systems, and continuous self-improvement capabilities."
